@@ -1,0 +1,498 @@
+season,player_id,player,team,conference,category,stat_type,stat
+,4870893,Kayden McDonald,Ohio State,Big Ten,defensive,SOLO,0.0
+,4870835,Brandon Inniss,Ohio State,Big Ten,receiving,REC,1.0
+,4431553,Donovan Jackson,Ohio State,Big Ten,defensive,TFL,0.0
+,4427965,Jaden McKenzie,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4868356,Hero Kanu,Ohio State,Big Ten,defensive,TFL,1.0
+,4871023,Carnell Tate,Ohio State,Big Ten,receiving,YPR,16.3
+,-7014, Team,Ohio State,Big Ten,passing,ATT,1.0
+,5081821,Kenyatta Jackson,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4566154,J.T. Tuimoloau,Ohio State,Big Ten,defensive,SACKS,4.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,interceptions,INT,1.0
+,4432668,Denzel Burke,Ohio State,Big Ten,interceptions,YDS,0.0
+,4432668,Denzel Burke,Ohio State,Big Ten,interceptions,INT,1.0
+,4431242,Cameron Martinez,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,YPR,5.9
+,4567750,Emeka Egbuka,Ohio State,Big Ten,puntReturns,LONG,8.0
+,4433971,Kyle McCord,Ohio State,Big Ten,rushing,TD,0.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,rushing,TD,0.0
+,4430800,Julian Fleming,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4695709,Devin Brown,Ohio State,Big Ten,passing,YPA,9.0
+,4432673,Reid Carrico,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,rushing,CAR,90.0
+,4685511,Gabe Powers,Ohio State,Big Ten,defensive,TOT,3.0
+,4685324,Caden Curry,Ohio State,Big Ten,kickReturns,LONG,-5.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,interceptions,YDS,93.0
+,4431242,Cameron Martinez,Ohio State,Big Ten,defensive,PD,0.0
+,4432637,Miyan Williams,Ohio State,Big Ten,receiving,REC,4.0
+,4685511,Gabe Powers,Ohio State,Big Ten,defensive,TD,0.0
+,4705854,John Ferlmann,Ohio State,Big Ten,defensive,SOLO,1.0
+,4433971,Kyle McCord,Ohio State,Big Ten,fumbles,REC,0.0
+,4429071,Cody Simon,Ohio State,Big Ten,defensive,TD,0.0
+,4431498,Jayden Ballard,Ohio State,Big Ten,puntReturns,LONG,18.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,defensive,SOLO,1.0
+,4430800,Julian Fleming,Ohio State,Big Ten,receiving,YPR,10.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,REC,7.0
+,4426482,Steele Chambers,Ohio State,Big Ten,interceptions,YDS,0.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,fumbles,REC,1.0
+,4431118,Ty Hamilton,Ohio State,Big Ten,defensive,TFL,1.5
+,4596480,Jordan Hancock,Ohio State,Big Ten,interceptions,TD,1.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,defensive,TOT,1.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,kickReturns,AVG,23.1
+,4917948,Malik Hartford,Ohio State,Big Ten,defensive,TD,0.0
+,4685372,C.J. Hicks,Ohio State,Big Ten,defensive,TD,0.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,interceptions,YDS,15.0
+,4870893,Kayden McDonald,Ohio State,Big Ten,defensive,PD,1.0
+,4431553,Donovan Jackson,Ohio State,Big Ten,defensive,TD,0.0
+,4433971,Kyle McCord,Ohio State,Big Ten,passing,PCT,0.65
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,kickReturns,LONG,14.0
+,4566154,J.T. Tuimoloau,Ohio State,Big Ten,defensive,TD,0.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,kickReturns,YDS,208.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,kickReturns,NO,9.0
+,4432668,Denzel Burke,Ohio State,Big Ten,defensive,PD,8.0
+,4430800,Julian Fleming,Ohio State,Big Ten,receiving,REC,19.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,defensive,TFL,0.0
+,4431242,Cameron Martinez,Ohio State,Big Ten,defensive,TFL,0.0
+,4685236,Omari Abor,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4426496,Cade Stover,Ohio State,Big Ten,receiving,YPR,15.9
+,4433971,Kyle McCord,Ohio State,Big Ten,rushing,LONG,9.0
+,4361344,Josh Proctor,Ohio State,Big Ten,interceptions,INT,1.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,rushing,YPC,6.9
+,5081807,Sonny Styles,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4361344,Josh Proctor,Ohio State,Big Ten,interceptions,TD,1.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,rushing,LONG,19.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,defensive,TOT,40.0
+,4432637,Miyan Williams,Ohio State,Big Ten,receiving,YPR,10.5
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,defensive,TOT,10.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,defensive,TOT,38.0
+,4429071,Cody Simon,Ohio State,Big Ten,rushing,CAR,1.0
+,4432668,Denzel Burke,Ohio State,Big Ten,defensive,SACKS,0.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,defensive,TD,0.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,puntReturns,AVG,3.3
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,defensive,SACKS,0.0
+,4430800,Julian Fleming,Ohio State,Big Ten,puntReturns,AVG,3.0
+,4870835,Brandon Inniss,Ohio State,Big Ten,receiving,YDS,58.0
+,5081807,Sonny Styles,Ohio State,Big Ten,defensive,PD,1.0
+,4685511,Gabe Powers,Ohio State,Big Ten,defensive,TFL,0.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,kickReturns,YDS,14.0
+,4690962,Ja'Had Carter,Ohio State,Big Ten,defensive,SACKS,0.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,rushing,CAR,68.0
+,4361363,Matthew Jones,Ohio State,Big Ten,defensive,TFL,0.0
+,4430800,Julian Fleming,Ohio State,Big Ten,receiving,YDS,190.0
+,4695709,Devin Brown,Ohio State,Big Ten,rushing,CAR,19.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,defensive,TFL,0.0
+,4870835,Brandon Inniss,Ohio State,Big Ten,receiving,LONG,58.0
+,4430800,Julian Fleming,Ohio State,Big Ten,defensive,TD,0.0
+,4431242,Cameron Martinez,Ohio State,Big Ten,defensive,SOLO,2.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,rushing,CAR,1.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,rushing,CAR,17.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,YPR,12.8
+,4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,YDS,332.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,REC,26.0
+,4432729,Tywone Malone,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4870835,Brandon Inniss,Ohio State,Big Ten,receiving,YPR,58.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,LONG,65.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,interceptions,YDS,58.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,defensive,TOT,1.0
+,4917948,Malik Hartford,Ohio State,Big Ten,defensive,TOT,6.0
+,4431498,Jayden Ballard,Ohio State,Big Ten,puntReturns,NO,7.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,rushing,YPC,6.0
+,4433971,Kyle McCord,Ohio State,Big Ten,passing,YDS,2352.0
+,4429560,Tommy Eichenberg,Ohio State,Big Ten,defensive,TOT,73.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,YDS,170.0
+,4427965,Jaden McKenzie,Ohio State,Big Ten,defensive,SOLO,4.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,interceptions,TD,1.0
+,4433971,Kyle McCord,Ohio State,Big Ten,passing,ATT,257.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,kickReturns,LONG,32.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,defensive,PD,3.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,defensive,SOLO,1.0
+,4426496,Cade Stover,Ohio State,Big Ten,fumbles,LOST,0.0
+,4868356,Hero Kanu,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4426496,Cade Stover,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4431498,Jayden Ballard,Ohio State,Big Ten,puntReturns,TD,0.0
+,4426482,Steele Chambers,Ohio State,Big Ten,defensive,TFL,1.0
+,4431118,Ty Hamilton,Ohio State,Big Ten,defensive,SOLO,11.0
+,4430800,Julian Fleming,Ohio State,Big Ten,defensive,PD,0.0
+,4361363,Matthew Jones,Ohio State,Big Ten,defensive,PD,0.0
+,4432729,Tywone Malone,Ohio State,Big Ten,defensive,SACKS,0.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,REC,9.0
+,4361363,Matthew Jones,Ohio State,Big Ten,defensive,SOLO,0.0
+,4431590,Jack Sawyer,Ohio State,Big Ten,defensive,SACKS,1.5
+,4693205,Mitchell Melton,Ohio State,Big Ten,defensive,TD,0.0
+,4432757,Evan Pryor,Ohio State,Big Ten,rushing,YDS,14.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,rushing,LONG,7.0
+,4693205,Mitchell Melton,Ohio State,Big Ten,defensive,SOLO,3.0
+,4432668,Denzel Burke,Ohio State,Big Ten,defensive,TFL,1.0
+,4429560,Tommy Eichenberg,Ohio State,Big Ten,defensive,PD,0.0
+,4870893,Kayden McDonald,Ohio State,Big Ten,defensive,TFL,0.5
+,4431615,Tyleik Williams,Ohio State,Big Ten,defensive,PD,5.0
+,4685324,Caden Curry,Ohio State,Big Ten,defensive,TD,0.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,defensive,QB HUR,1.0
+,4426482,Steele Chambers,Ohio State,Big Ten,interceptions,AVG,0.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,LONG,14.0
+,4426496,Cade Stover,Ohio State,Big Ten,fumbles,REC,0.0
+,4426482,Steele Chambers,Ohio State,Big Ten,interceptions,INT,1.0
+,4433971,Kyle McCord,Ohio State,Big Ten,passing,TD,17.0
+,4917948,Malik Hartford,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,kickReturns,TD,0.0
+,4693205,Mitchell Melton,Ohio State,Big Ten,defensive,TFL,3.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,defensive,TFL,1.0
+,4868356,Hero Kanu,Ohio State,Big Ten,defensive,TOT,7.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,defensive,TD,0.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,defensive,PD,2.0
+,4566154,J.T. Tuimoloau,Ohio State,Big Ten,defensive,TOT,27.0
+,4431553,Donovan Jackson,Ohio State,Big Ten,defensive,SACKS,0.0
+,4433971,Kyle McCord,Ohio State,Big Ten,passing,COMPLETIONS,167.0
+,4600415,Mike Hall,Ohio State,Big Ten,defensive,TOT,16.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,fumbles,LOST,0.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,rushing,LONG,61.0
+,4361344,Josh Proctor,Ohio State,Big Ten,defensive,PD,7.0
+,4695709,Devin Brown,Ohio State,Big Ten,passing,PCT,0.545
+,4426496,Cade Stover,Ohio State,Big Ten,defensive,PD,0.0
+,4685236,Omari Abor,Ohio State,Big Ten,defensive,PD,0.0
+,4433971,Kyle McCord,Ohio State,Big Ten,rushing,CAR,29.0
+,4430800,Julian Fleming,Ohio State,Big Ten,defensive,SACKS,0.0
+,4690962,Ja'Had Carter,Ohio State,Big Ten,defensive,TFL,0.0
+,4431590,Jack Sawyer,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4685324,Caden Curry,Ohio State,Big Ten,kickReturns,TD,0.0
+,4432637,Miyan Williams,Ohio State,Big Ten,rushing,YDS,158.0
+,4432637,Miyan Williams,Ohio State,Big Ten,receiving,TD,0.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,kickReturns,NO,1.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,rushing,LONG,40.0
+,4871023,Carnell Tate,Ohio State,Big Ten,receiving,LONG,55.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,LONG,19.0
+,4426482,Steele Chambers,Ohio State,Big Ten,defensive,SOLO,25.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,YPR,17.6
+,4432637,Miyan Williams,Ohio State,Big Ten,receiving,LONG,27.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4426496,Cade Stover,Ohio State,Big Ten,receiving,TD,3.0
+,5081807,Sonny Styles,Ohio State,Big Ten,defensive,SACKS,1.0
+,4430800,Julian Fleming,Ohio State,Big Ten,fumbles,REC,0.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,puntReturns,NO,7.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,defensive,SOLO,0.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,rushing,LONG,15.0
+,5081814,Jayden Fielding,Ohio State,Big Ten,kicking,PCT,0.909
+,4566154,J.T. Tuimoloau,Ohio State,Big Ten,defensive,QB HUR,4.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,defensive,PD,0.0
+,4432729,Tywone Malone,Ohio State,Big Ten,defensive,TD,0.0
+,4429071,Cody Simon,Ohio State,Big Ten,defensive,TFL,1.5
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,TD,0.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,YPR,14.2
+,4431242,Cameron Martinez,Ohio State,Big Ten,defensive,SACKS,0.0
+,4600415,Mike Hall,Ohio State,Big Ten,defensive,SACKS,1.5
+,4432668,Denzel Burke,Ohio State,Big Ten,interceptions,TD,0.0
+,4426496,Cade Stover,Ohio State,Big Ten,defensive,TFL,0.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,defensive,TFL,0.0
+,4868356,Hero Kanu,Ohio State,Big Ten,defensive,PD,0.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,punting,TB,1.0
+,4426496,Cade Stover,Ohio State,Big Ten,receiving,REC,27.0
+,4685324,Caden Curry,Ohio State,Big Ten,kickReturns,AVG,-5.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,receiving,LONG,40.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,receiving,REC,7.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,rushing,YDS,102.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,receiving,YPR,12.1
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,defensive,SACKS,0.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,fumbles,FUM,0.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,defensive,SACKS,0.0
+,4705854,John Ferlmann,Ohio State,Big Ten,defensive,TFL,0.0
+,4685372,C.J. Hicks,Ohio State,Big Ten,defensive,SACKS,0.0
+,-7014, Team,Ohio State,Big Ten,rushing,CAR,6.0
+,4430800,Julian Fleming,Ohio State,Big Ten,puntReturns,LONG,3.0
+,5081821,Kenyatta Jackson,Ohio State,Big Ten,defensive,TD,0.0
+,4431553,Donovan Jackson,Ohio State,Big Ten,defensive,SOLO,1.0
+,4429560,Tommy Eichenberg,Ohio State,Big Ten,defensive,QB HUR,4.0
+,4427965,Jaden McKenzie,Ohio State,Big Ten,defensive,TFL,1.5
+,4432637,Miyan Williams,Ohio State,Big Ten,receiving,YDS,42.0
+,5081814,Jayden Fielding,Ohio State,Big Ten,kicking,LONG,41.0
+,4429071,Cody Simon,Ohio State,Big Ten,defensive,TOT,37.0
+,4430800,Julian Fleming,Ohio State,Big Ten,fumbles,LOST,1.0
+,4695709,Devin Brown,Ohio State,Big Ten,passing,COMPLETIONS,12.0
+,4361344,Josh Proctor,Ohio State,Big Ten,interceptions,AVG,24.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,defensive,PD,0.0
+,5081814,Jayden Fielding,Ohio State,Big Ten,kicking,FGA,11.0
+,4429071,Cody Simon,Ohio State,Big Ten,rushing,YPC,-3.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,defensive,TFL,0.0
+,4433971,Kyle McCord,Ohio State,Big Ten,fumbles,LOST,3.0
+,4685511,Gabe Powers,Ohio State,Big Ten,defensive,SACKS,0.0
+,4430800,Julian Fleming,Ohio State,Big Ten,puntReturns,YDS,3.0
+,4432668,Denzel Burke,Ohio State,Big Ten,interceptions,AVG,0.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,receiving,YPR,-2.0
+,4432757,Evan Pryor,Ohio State,Big Ten,rushing,YPC,2.3
+,4566154,J.T. Tuimoloau,Ohio State,Big Ten,defensive,SOLO,10.0
+,4361344,Josh Proctor,Ohio State,Big Ten,defensive,SACKS,0.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,rushing,TD,3.0
+,4695709,Devin Brown,Ohio State,Big Ten,rushing,TD,1.0
+,4430800,Julian Fleming,Ohio State,Big Ten,fumbles,FUM,1.0
+,4361363,Matthew Jones,Ohio State,Big Ten,defensive,TOT,1.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,receiving,LONG,-2.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,defensive,SACKS,2.0
+,4432668,Denzel Burke,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,rushing,TD,0.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,rushing,YDS,76.0
+,4432668,Denzel Burke,Ohio State,Big Ten,defensive,TD,0.0
+,4695709,Devin Brown,Ohio State,Big Ten,rushing,YPC,1.8
+,4429110,Lathan Ransom,Ohio State,Big Ten,interceptions,AVG,15.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,defensive,TD,0.0
+,4427965,Jaden McKenzie,Ohio State,Big Ten,defensive,TD,0.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,fumbles,REC,2.0
+,4600415,Mike Hall,Ohio State,Big Ten,defensive,SOLO,6.0
+,4432673,Reid Carrico,Ohio State,Big Ten,defensive,PD,0.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,defensive,SOLO,15.0
+,4431118,Ty Hamilton,Ohio State,Big Ten,defensive,SACKS,1.0
+,4433971,Kyle McCord,Ohio State,Big Ten,fumbles,FUM,3.0
+,4432673,Reid Carrico,Ohio State,Big Ten,defensive,TD,0.0
+,4690962,Ja'Had Carter,Ohio State,Big Ten,defensive,TD,0.0
+,4685236,Omari Abor,Ohio State,Big Ten,defensive,TOT,2.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,rushing,TD,7.0
+,4429071,Cody Simon,Ohio State,Big Ten,rushing,YDS,-3.0
+,4685324,Caden Curry,Ohio State,Big Ten,defensive,SACKS,1.0
+,4690962,Ja'Had Carter,Ohio State,Big Ten,defensive,SOLO,2.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,rushing,TD,0.0
+,4426496,Cade Stover,Ohio State,Big Ten,defensive,SACKS,0.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,defensive,TOT,1.0
+,4693205,Mitchell Melton,Ohio State,Big Ten,defensive,PD,0.0
+,4431590,Jack Sawyer,Ohio State,Big Ten,defensive,PD,2.0
+,4429071,Cody Simon,Ohio State,Big Ten,defensive,SOLO,14.0
+,4870893,Kayden McDonald,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,rushing,YPC,2.0
+,4685324,Caden Curry,Ohio State,Big Ten,defensive,QB HUR,2.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,REC,12.0
+,4429560,Tommy Eichenberg,Ohio State,Big Ten,defensive,SACKS,1.0
+,4685236,Omari Abor,Ohio State,Big Ten,defensive,TFL,1.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,interceptions,AVG,93.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,defensive,QB HUR,1.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,fumbles,FUM,0.0
+,4600415,Mike Hall,Ohio State,Big Ten,defensive,QB HUR,2.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,rushing,LONG,2.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,defensive,TD,0.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,interceptions,TD,0.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,defensive,PD,2.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,rushing,CAR,11.0
+,4429071,Cody Simon,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4695709,Devin Brown,Ohio State,Big Ten,passing,INT,1.0
+,4690962,Ja'Had Carter,Ohio State,Big Ten,defensive,TOT,5.0
+,4432757,Evan Pryor,Ohio State,Big Ten,rushing,CAR,6.0
+,4432668,Denzel Burke,Ohio State,Big Ten,defensive,SOLO,7.0
+,4429071,Cody Simon,Ohio State,Big Ten,rushing,TD,0.0
+,5081814,Jayden Fielding,Ohio State,Big Ten,kicking,PTS,67.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4361363,Matthew Jones,Ohio State,Big Ten,defensive,TD,0.0
+,4431118,Ty Hamilton,Ohio State,Big Ten,defensive,PD,0.0
+,4361344,Josh Proctor,Ohio State,Big Ten,interceptions,YDS,24.0
+,4433971,Kyle McCord,Ohio State,Big Ten,passing,INT,4.0
+,4431590,Jack Sawyer,Ohio State,Big Ten,defensive,TOT,30.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,rushing,TD,1.0
+,4431590,Jack Sawyer,Ohio State,Big Ten,defensive,TD,0.0
+,4431553,Donovan Jackson,Ohio State,Big Ten,defensive,PD,0.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,rushing,YDS,25.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,punting,LONG,72.0
+,4868356,Hero Kanu,Ohio State,Big Ten,defensive,TD,0.0
+,4361363,Matthew Jones,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4685372,C.J. Hicks,Ohio State,Big Ten,defensive,TFL,0.0
+,4426496,Cade Stover,Ohio State,Big Ten,receiving,YDS,429.0
+,-7014, Team,Ohio State,Big Ten,rushing,YPC,-1.8
+,4426496,Cade Stover,Ohio State,Big Ten,defensive,TOT,1.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,receiving,YDS,85.0
+,4426482,Steele Chambers,Ohio State,Big Ten,defensive,PD,1.0
+,5081807,Sonny Styles,Ohio State,Big Ten,defensive,TOT,37.0
+,4685236,Omari Abor,Ohio State,Big Ten,defensive,TD,0.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,defensive,TFL,1.5
+,4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,LONG,28.0
+,5081807,Sonny Styles,Ohio State,Big Ten,defensive,TFL,3.0
+,4432757,Evan Pryor,Ohio State,Big Ten,rushing,TD,0.0
+,4426482,Steele Chambers,Ohio State,Big Ten,defensive,TD,0.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,rushing,YPC,6.5
+,4430800,Julian Fleming,Ohio State,Big Ten,puntReturns,TD,0.0
+,5081807,Sonny Styles,Ohio State,Big Ten,defensive,TD,0.0
+,4432673,Reid Carrico,Ohio State,Big Ten,defensive,SACKS,0.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,YDS,62.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,interceptions,AVG,58.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,rushing,CAR,5.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,defensive,SACKS,0.0
+,4695709,Devin Brown,Ohio State,Big Ten,passing,TD,2.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,receiving,TD,0.0
+,4690962,Ja'Had Carter,Ohio State,Big Ten,defensive,PD,0.0
+,4566154,J.T. Tuimoloau,Ohio State,Big Ten,defensive,TFL,5.5
+,4385430,Xavier Johnson,Ohio State,Big Ten,receiving,TD,0.0
+,4429071,Cody Simon,Ohio State,Big Ten,rushing,LONG,0.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,defensive,SACKS,1.0
+,4430800,Julian Fleming,Ohio State,Big Ten,defensive,SOLO,1.0
+,4871023,Carnell Tate,Ohio State,Big Ten,receiving,REC,14.0
+,4430800,Julian Fleming,Ohio State,Big Ten,defensive,TOT,1.0
+,5081821,Kenyatta Jackson,Ohio State,Big Ten,defensive,SACKS,1.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,YPR,6.9
+,4431118,Ty Hamilton,Ohio State,Big Ten,defensive,TOT,25.0
+,4600415,Mike Hall,Ohio State,Big Ten,defensive,PD,0.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,TD,1.0
+,4426496,Cade Stover,Ohio State,Big Ten,defensive,TD,0.0
+,4432668,Denzel Burke,Ohio State,Big Ten,defensive,TOT,9.0
+,5081821,Kenyatta Jackson,Ohio State,Big Ten,defensive,TFL,1.5
+,4685236,Omari Abor,Ohio State,Big Ten,defensive,SOLO,1.0
+,4431242,Cameron Martinez,Ohio State,Big Ten,defensive,TOT,2.0
+,4870893,Kayden McDonald,Ohio State,Big Ten,defensive,SACKS,0.0
+,4429560,Tommy Eichenberg,Ohio State,Big Ten,defensive,SOLO,37.0
+,4695709,Devin Brown,Ohio State,Big Ten,passing,YDS,197.0
+,4431118,Ty Hamilton,Ohio State,Big Ten,defensive,QB HUR,1.0
+,4430800,Julian Fleming,Ohio State,Big Ten,receiving,TD,0.0
+,-7014, Team,Ohio State,Big Ten,rushing,LONG,0.0
+,4432729,Tywone Malone,Ohio State,Big Ten,defensive,TFL,0.5
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,rushing,YDS,276.0
+,-7014, Team,Ohio State,Big Ten,passing,COMPLETIONS,0.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,interceptions,INT,1.0
+,4433971,Kyle McCord,Ohio State,Big Ten,rushing,YDS,-57.0
+,-7014, Team,Ohio State,Big Ten,rushing,YDS,-11.0
+,4685372,C.J. Hicks,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4433971,Kyle McCord,Ohio State,Big Ten,passing,YPA,9.2
+,4832035,Davison Igbinosun,Ohio State,Big Ten,fumbles,LOST,0.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,defensive,TD,0.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,receiving,YDS,-2.0
+,4705854,John Ferlmann,Ohio State,Big Ten,defensive,PD,0.0
+,4695709,Devin Brown,Ohio State,Big Ten,fumbles,REC,0.0
+,4917948,Malik Hartford,Ohio State,Big Ten,defensive,PD,2.0
+,4426496,Cade Stover,Ohio State,Big Ten,fumbles,FUM,1.0
+,4432729,Tywone Malone,Ohio State,Big Ten,defensive,TOT,2.0
+,4426496,Cade Stover,Ohio State,Big Ten,receiving,LONG,49.0
+,4431498,Jayden Ballard,Ohio State,Big Ten,puntReturns,AVG,5.1
+,4361344,Josh Proctor,Ohio State,Big Ten,defensive,TFL,4.0
+,4431118,Ty Hamilton,Ohio State,Big Ten,defensive,TD,0.0
+,4427965,Jaden McKenzie,Ohio State,Big Ten,defensive,TOT,8.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,punting,YPP,42.7
+,4695709,Devin Brown,Ohio State,Big Ten,fumbles,LOST,1.0
+,4685372,C.J. Hicks,Ohio State,Big Ten,defensive,TOT,3.0
+,4432637,Miyan Williams,Ohio State,Big Ten,rushing,YPC,3.2
+,4917948,Malik Hartford,Ohio State,Big Ten,defensive,SOLO,1.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,punting,In 20,14.0
+,4705854,John Ferlmann,Ohio State,Big Ten,defensive,TD,0.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,defensive,SACKS,0.0
+,4685324,Caden Curry,Ohio State,Big Ten,defensive,SOLO,4.0
+,4685372,C.J. Hicks,Ohio State,Big Ten,defensive,PD,0.0
+,4705854,John Ferlmann,Ohio State,Big Ten,defensive,TOT,1.0
+,4685372,C.J. Hicks,Ohio State,Big Ten,defensive,SOLO,1.0
+,4695709,Devin Brown,Ohio State,Big Ten,rushing,LONG,8.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,defensive,SACKS,0.0
+,4685324,Caden Curry,Ohio State,Big Ten,kickReturns,NO,1.0
+,4432637,Miyan Williams,Ohio State,Big Ten,rushing,LONG,12.0
+,4431590,Jack Sawyer,Ohio State,Big Ten,defensive,TFL,2.5
+,4868356,Hero Kanu,Ohio State,Big Ten,defensive,SOLO,5.0
+,5081821,Kenyatta Jackson,Ohio State,Big Ten,defensive,SOLO,3.0
+,4695709,Devin Brown,Ohio State,Big Ten,rushing,YDS,35.0
+,5081814,Jayden Fielding,Ohio State,Big Ten,kicking,XPM,37.0
+,5081821,Kenyatta Jackson,Ohio State,Big Ten,defensive,PD,0.0
+,5081814,Jayden Fielding,Ohio State,Big Ten,kicking,FGM,10.0
+,4432729,Tywone Malone,Ohio State,Big Ten,defensive,PD,0.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,defensive,TFL,0.5
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,defensive,SACKS,0.0
+,4427965,Jaden McKenzie,Ohio State,Big Ten,defensive,PD,0.0
+,4693205,Mitchell Melton,Ohio State,Big Ten,defensive,SACKS,1.0
+,4432637,Miyan Williams,Ohio State,Big Ten,rushing,TD,3.0
+,4432757,Evan Pryor,Ohio State,Big Ten,rushing,LONG,6.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,punting,YDS,1452.0
+,4695709,Devin Brown,Ohio State,Big Ten,passing,ATT,22.0
+,4600415,Mike Hall,Ohio State,Big Ten,defensive,TFL,2.0
+,4685511,Gabe Powers,Ohio State,Big Ten,defensive,PD,0.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,defensive,TOT,30.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,defensive,TOT,34.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,defensive,SOLO,21.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,YDS,914.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,YDS,41.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,rushing,YDS,2.0
+,4432637,Miyan Williams,Ohio State,Big Ten,rushing,CAR,49.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,REC,52.0
+,4426482,Steele Chambers,Ohio State,Big Ten,defensive,TOT,54.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,rushing,YPC,5.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4695709,Devin Brown,Ohio State,Big Ten,fumbles,FUM,2.0
+,4870835,Brandon Inniss,Ohio State,Big Ten,receiving,TD,1.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,rushing,YDS,7.0
+,5081814,Jayden Fielding,Ohio State,Big Ten,kicking,XPA,38.0
+,4429071,Cody Simon,Ohio State,Big Ten,defensive,SACKS,0.0
+,4868356,Hero Kanu,Ohio State,Big Ten,defensive,SACKS,1.0
+,4600415,Mike Hall,Ohio State,Big Ten,defensive,TD,0.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4431242,Cameron Martinez,Ohio State,Big Ten,defensive,TD,0.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,defensive,TD,1.0
+,4426482,Steele Chambers,Ohio State,Big Ten,defensive,SACKS,0.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,rushing,YPC,7.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,defensive,TOT,1.0
+,4693205,Mitchell Melton,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4426482,Steele Chambers,Ohio State,Big Ten,defensive,QB HUR,1.0
+,4690962,Ja'Had Carter,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4685324,Caden Curry,Ohio State,Big Ten,defensive,TOT,6.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,defensive,TD,1.0
+,5081807,Sonny Styles,Ohio State,Big Ten,defensive,SOLO,21.0
+,4685511,Gabe Powers,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,rushing,YPC,4.1
+,4683851,Jesse Mirco,Ohio State,Big Ten,defensive,SOLO,1.0
+,4385430,Xavier Johnson,Ohio State,Big Ten,rushing,TD,0.0
+,4430800,Julian Fleming,Ohio State,Big Ten,receiving,LONG,37.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,defensive,PD,0.0
+,4693205,Mitchell Melton,Ohio State,Big Ten,defensive,TOT,3.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,kickReturns,TD,0.0
+,4361344,Josh Proctor,Ohio State,Big Ten,defensive,TD,1.0
+,4685324,Caden Curry,Ohio State,Big Ten,defensive,TFL,2.0
+,4426496,Cade Stover,Ohio State,Big Ten,defensive,SOLO,1.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,TD,3.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,rushing,CAR,1.0
+,4432673,Reid Carrico,Ohio State,Big Ten,defensive,SOLO,0.0
+,4431615,Tyleik Williams,Ohio State,Big Ten,defensive,TFL,8.5
+,-7014, Team,Ohio State,Big Ten,passing,TD,0.0
+,4685511,Gabe Powers,Ohio State,Big Ten,defensive,SOLO,2.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,TD,10.0
+,-7014, Team,Ohio State,Big Ten,passing,PCT,0.0
+,4430800,Julian Fleming,Ohio State,Big Ten,defensive,TFL,0.0
+,4870893,Kayden McDonald,Ohio State,Big Ten,defensive,TD,0.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,interceptions,INT,1.0
+,4429560,Tommy Eichenberg,Ohio State,Big Ten,defensive,TD,0.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,rushing,LONG,9.0
+,4705854,John Ferlmann,Ohio State,Big Ten,defensive,SACKS,0.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,defensive,PD,0.0
+,4870893,Kayden McDonald,Ohio State,Big Ten,defensive,TOT,1.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,puntReturns,YDS,23.0
+,4431498,Jayden Ballard,Ohio State,Big Ten,puntReturns,YDS,36.0
+,-7014, Team,Ohio State,Big Ten,passing,YPA,0.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,punting,NO,34.0
+,4426482,Steele Chambers,Ohio State,Big Ten,interceptions,TD,0.0
+,-7014, Team,Ohio State,Big Ten,rushing,TD,0.0
+,4567750,Emeka Egbuka,Ohio State,Big Ten,puntReturns,TD,0.0
+,4917948,Malik Hartford,Ohio State,Big Ten,defensive,TFL,0.0
+,4566154,J.T. Tuimoloau,Ohio State,Big Ten,defensive,PD,2.0
+,4429071,Cody Simon,Ohio State,Big Ten,defensive,PD,1.0
+,-7014, Team,Ohio State,Big Ten,passing,YDS,0.0
+,4431590,Jack Sawyer,Ohio State,Big Ten,defensive,SOLO,13.0
+,4685236,Omari Abor,Ohio State,Big Ten,defensive,SACKS,0.0
+,5081821,Kenyatta Jackson,Ohio State,Big Ten,defensive,TOT,5.0
+,4685324,Caden Curry,Ohio State,Big Ten,kickReturns,YDS,-5.0
+,4361344,Josh Proctor,Ohio State,Big Ten,defensive,SOLO,23.0
+,4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,LONG,75.0
+,4431553,Donovan Jackson,Ohio State,Big Ten,defensive,TOT,1.0
+,4698727,Dallan Hayden,Ohio State,Big Ten,receiving,REC,1.0
+,4432673,Reid Carrico,Ohio State,Big Ten,defensive,TOT,1.0
+,4361344,Josh Proctor,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4432673,Reid Carrico,Ohio State,Big Ten,defensive,TFL,0.0
+,4429560,Tommy Eichenberg,Ohio State,Big Ten,defensive,TFL,2.5
+,4427965,Jaden McKenzie,Ohio State,Big Ten,defensive,SACKS,0.0
+,4361344,Josh Proctor,Ohio State,Big Ten,defensive,TOT,35.0
+,4917948,Malik Hartford,Ohio State,Big Ten,defensive,SACKS,0.0
+,4429115,Gee Scott Jr.,Ohio State,Big Ten,defensive,TFL,0.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,defensive,PD,3.0
+,4430893,DeaMonte Trayanum,Ohio State,Big Ten,kickReturns,AVG,14.0
+,4433971,Kyle McCord,Ohio State,Big Ten,rushing,YPC,-2.0
+,4871023,Carnell Tate,Ohio State,Big Ten,receiving,TD,1.0
+,4429110,Lathan Ransom,Ohio State,Big Ten,defensive,TD,0.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,rushing,YDS,585.0
+,4871023,Carnell Tate,Ohio State,Big Ten,receiving,YDS,228.0
+,-7014, Team,Ohio State,Big Ten,passing,INT,0.0
+,4596480,Jordan Hancock,Ohio State,Big Ten,defensive,SOLO,20.0
+,4431553,Donovan Jackson,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4430800,Julian Fleming,Ohio State,Big Ten,puntReturns,NO,1.0
+,4432729,Tywone Malone,Ohio State,Big Ten,defensive,SOLO,1.0
+,4705854,John Ferlmann,Ohio State,Big Ten,defensive,QB HUR,0.0
+,4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,TD,0.0
+,4685324,Caden Curry,Ohio State,Big Ten,defensive,PD,1.0
+,4361363,Matthew Jones,Ohio State,Big Ten,defensive,SACKS,0.0
+,4683851,Jesse Mirco,Ohio State,Big Ten,defensive,TD,0.0
+,5150710,Jermaine Mathews Jr.,Ohio State,Big Ten,defensive,SOLO,7.0
+,4832035,Davison Igbinosun,Ohio State,Big Ten,defensive,SOLO,28.0

@@ -1,0 +1,26 @@
+id,name
+1,Incompletion
+2,Target
+3,Pass Breakup
+4,Completion
+5,Reception
+6,Tackle
+7,Rush
+8,Fumble
+9,Fumble Forced
+10,Fumble Recovered
+11,Sack Taken
+12,Sack
+13,Kickoff
+14,Onside Kick
+15,Kickoff Return
+16,Punt
+17,Punt Block
+18,FG Attempt Blocked
+19,Field Goal Block
+20,Interception Thrown
+21,Interception
+22,Touchdown
+23,Field Goal Attempt
+24,Field Goal Made
+25,Field Goal Missed
